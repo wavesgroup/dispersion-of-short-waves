@@ -11,6 +11,7 @@ _Frost Insitute for Data Science & Computing_
 
 _University of Miami_
 
+_WISE 2024_
 </section>
 
 
