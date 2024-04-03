@@ -19,13 +19,25 @@ _WISE 2024_
 
 ## Problem statement
 
-* Short waves are modulated by ambient longer waves
-* This is true even in an energy conserving frame, i.e. in absence of wave growth or dissipation.
+* Short waves are modulated by ambient longer waves.
+* True even in absence of wave growth or dissipation
+* Well studied but not yet fully understood
+* Important for:
+  - Remote sensing
+  - Numerical wave prediction
+</section>
+
+
+<section>
+
+## Problem statement (cont.)
+
+* Linear wave theory takes us a long way.
 * Early analytical solution by Longuet-Higgins & Stewart (1960):
   - Peak modulation at long-wave crests and proportional to $1 + a_L k_L$
 * Numerical simulations by Peureux et al. (2021):
   - Short waves grow indefinitely due to resonance with wavenumber modulations.
-  - Highly sensitive to initial conditions.
+  - Sensitive to initial conditions.
 </section>
 
 
@@ -37,4 +49,5 @@ _WISE 2024_
 * Can we generalize higher-order solutions to include net-effects of modulation in:
   - Dispersion relation of spectral wave models?
   - Wind input functions of spectral wave models?
+* Does it matter and should we do something about it in spectral wave models?
 </section>

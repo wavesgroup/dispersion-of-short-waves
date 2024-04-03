@@ -33,7 +33,6 @@ $$
 ## Governing equations for long waves
 
 * Sine waves with amplitude $a_L$ and steepness $\varepsilon_L$:
-
 $$
 \eta = a_L \cos\psi
 $$
@@ -53,7 +52,6 @@ $$
 ## Governing equations, expanded
 
 * Prognostic equation for wavenumber:
-
 $$
 \dfrac{\partial k}{ \partial t} + 
 (C_g + U) \dfrac{\partial k}{\partial x} + 
@@ -61,9 +59,7 @@ $$
 k \dfrac{\partial U}{\partial x} = 
 0
 $$
-
 * Prognostic equation for wave action:
-
 $$
 \dfrac{\partial N}{ \partial t} +
 (C_g + U) \dfrac{\partial N}{\partial x} +

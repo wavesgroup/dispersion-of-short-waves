@@ -27,17 +27,33 @@ $$
 
 <section>
 
-## Short-wave wavenumber
+## Short wave wavenumber
 
 * Longuet-Higgins & Stewart (1960):
-
 $$
 \tilde{k} = k (1 + \varepsilon_L \cos\psi)
 $$
-
 * This study:
-
 $$
 \tilde{k} = k\ e^{\left[1 + \varepsilon_L \cos\psi e^{\left(1 + \varepsilon_L \cos\psi\right)}\right]}
 $$
+* This solution reduces to L-H&S if we Taylor-expand and keep the 1$^{st}$ order term in $\varepsilon_L$.
+</section>
+
+
+<section>
+
+## Short wave gravity
+
+* Short waves are riding in the reference frame of the long wave surface so
+  they accelerate downward on crests and upward on troughs.
+
+$$
+\tilde{g} = g \left[
+    1 - \varepsilon_L e^{\varepsilon \cos\psi}
+    \left( \cos\psi + \varepsilon_L \sin^2\psi \right)
+\right]
+$$
+
+* On average, the mean gravity of short waves is reduced in presence of longer waves.
 </section>
