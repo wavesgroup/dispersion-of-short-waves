@@ -35,7 +35,7 @@ $$
 $$
 * This study:
 $$
-\tilde{k} = k\ e^{\left[1 + \varepsilon_L \cos\psi e^{\left(1 + \varepsilon_L \cos\psi\right)}\right]}
+\tilde{k} = k\ e^{\left[\varepsilon_L \cos\psi e^{\left(\varepsilon_L \cos\psi\right)}\right]}
 $$
 * This solution reduces to L-H&S if we Taylor-expand and keep the 1$^{st}$ order term in $\varepsilon_L$.
 </section>
