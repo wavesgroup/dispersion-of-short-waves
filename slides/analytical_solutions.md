@@ -9,16 +9,13 @@
 ## Analytical solution for wavenumber
 
 * An analytical solution requires dropping terms from the wavenumber balance equation:
-
 $$
 \dfrac{\partial k}{ \partial t} + 
-\color{red}{(C_g + U) \dfrac{\partial k}{\partial x}} + 
-\color{red}{\dfrac{1}{2} \sqrt{\dfrac{k}{g}} \dfrac{\partial g}{\partial x}} + 
+\cancel{(C_g + U) \dfrac{\partial k}{\partial x}} + 
+\cancel{\dfrac{1}{2} \sqrt{\dfrac{k}{g}} \dfrac{\partial g}{\partial x}} + 
 k \dfrac{\partial U}{\partial x} = 
 0
 $$
-
-
 $$
 \dfrac{\partial k}{ \partial t} = - k \dfrac{\partial U}{\partial x}
 $$
@@ -35,9 +32,25 @@ $$
 $$
 * This study:
 $$
-\tilde{k} = k\ e^{\left[\varepsilon_L \cos\psi e^{\left(\varepsilon_L \cos\psi\right)}\right]}
+\tilde{k} = k\ e^{\varepsilon_L \cos\psi e^{\varepsilon_L \cos\psi}}
 $$
 * This solution reduces to L-H&S if we Taylor-expand and keep the 1$^{st}$ order term in $\varepsilon_L$.
+</section>
+
+
+<section>
+
+## Short wave wavenumber (cont.)
+
+<img class="r-stretch" src="assets/fig_wavenumber_modulation.png">
+</section>
+
+
+<section>
+
+## Short wave wavenumber (cont.)
+
+<img class="r-stretch" src="assets/fig_wavenumber_modulation_by_ak.png">
 </section>
 
 
