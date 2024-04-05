@@ -34,7 +34,7 @@ $$
 $$
 \tilde{k} = k\ e^{\varepsilon_L \cos\psi e^{\varepsilon_L \cos\psi}}
 $$
-* This solution reduces to L-H&S if we Taylor-expand and keep the 1$^{st}$ order term in $\varepsilon_L$.
+* This solution reduces to L-H&S if we Taylor-expand it and keep the 1$^{st}$ order term in $\varepsilon_L$.
 </section>
 
 
@@ -42,7 +42,7 @@ $$
 
 ## Short wave wavenumber (cont.)
 
-<img class="r-stretch" src="assets/fig_wavenumber_modulation.png">
+<img class="r-stretch" src="assets/fig_wavenumber_modulation_by_phase.png">
 </section>
 
 
@@ -69,4 +69,20 @@ $$
 $$
 
 * On average, the mean gravity of short waves is reduced in presence of longer waves.
+</section>
+
+
+<section>
+
+## Short wave gravity (cont.)
+
+<img class="r-stretch" src="assets/fig_gravity_modulation_by_phase.png">
+</section>
+
+
+<section>
+
+## Short wave gravity (cont.)
+
+<img class="r-stretch" src="assets/fig_gravity_modulation_by_ak.png">
 </section>
