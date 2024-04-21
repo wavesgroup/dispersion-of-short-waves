@@ -5,13 +5,11 @@
 _Milan Curcic_
 
 
-_Department of Ocean Science_
+_Department of Ocean Science, University of Miami_
 
-_Frost Insitute for Data Science & Computing_
+_Frost Insitute for Data Science & Computing, University of Miami_
 
-_University of Miami_
-
-_WISE 2024_
+_WISE 2024_, Cargese, France
 </section>
 
 
@@ -23,8 +21,8 @@ _WISE 2024_
 * True even in absence of wave growth or dissipation
 * Well studied but not yet fully understood
 * Important for:
-  - Remote sensing
-  - Numerical wave prediction
+  - Remote sensing (e.g. EM return from Bragg waves carry information about long waves)
+  - Numerical wave prediction (e.g. can different wave bands be treated independently in wind input functions?)
 </section>
 
 
@@ -45,9 +43,7 @@ _WISE 2024_
 
 ## This talk's science questions
 
-* Can we learn more from the linear wave theory about the short-wave modulation?
-* Can we generalize higher-order solutions to include net-effects of modulation in:
-  - Dispersion relation of spectral wave models?
-  - Wind input functions of spectral wave models?
-* Does it matter and should we do something about it in spectral wave models?
+* Do stable solutions exist for more realistic long-wave trains?
+* Are they different from L-H&S (1960) and Peureux et al. (2021) solutions?
+* Can they and should they be incorporated in spectral wave models?
 </section>

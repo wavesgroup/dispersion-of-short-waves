@@ -34,7 +34,55 @@ $$
 
 <section>
 
-## Wave action, wavenumber, and steepness modulation
+## Modulation over time: Infinite wave train
 
-<img class="r-stretch" src="assets/fig_modulation_3panel.png">
+<img class="r-stretch" src="assets/fig_modulation_3panel_infinite_wave_train.png">
+</section>
+
+
+<section>
+
+## Modulation over time: Linear ramp
+
+<img class="r-stretch" src="assets/fig_modulation_3panel_linear_ramp.png">
+</section>
+
+
+<section>
+
+## Modulation over time: Wave group
+
+<img class="r-stretch" src="assets/fig_modulation_3panel_wave_group.png">
+</section>
+
+
+<section>
+
+## What processes grow/decay the modulation? Infinite wave train
+
+<img class="r-stretch" src="assets/fig_tendency_contributions_infinite_wave_train.png">
+</section>
+
+
+<section>
+
+## What processes grow/decay the modulation? Linear ramp
+
+<img class="r-stretch" src="assets/fig_tendency_contributions_linear_ramp.png">
+</section>
+
+
+<section>
+
+## What processes grow/decay the modulation? Wave group
+
+<img class="r-stretch" src="assets/fig_tendency_contributions_wave_group.png">
+</section>
+
+
+<section>
+
+## Short wave modulation, revisited
+
+<img class="r-stretch" src="assets/fig_wavenumber_modulation_by_ak_numerical.png">
 </section>
