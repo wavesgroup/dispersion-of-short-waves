@@ -9,7 +9,7 @@ _Department of Ocean Science, University of Miami_
 
 _Frost Insitute for Data Science & Computing, University of Miami_
 
-_WISE 2024_, Cargese, France
+_WISE 2024, Cargèse, France_
 </section>
 
 
@@ -17,17 +17,18 @@ _WISE 2024_, Cargese, France
 
 ## Problem statement
 
-* Short waves are modulated by ambient longer waves, even in absence of wave growth or dissipation.
+* Short waves are modulated by ambient longer waves.
 * Well studied but not yet fully understood; many processes going on at once.
 * Modulation is important for at least:
   - Remote sensing (e.g. *EM return from Bragg waves carry information about long waves*)
   - Numerical wave prediction (e.g. *can different wave bands be treated independently in wind input functions?*)
+  - Wave measurements (e.g. *a fixed wave staff measures modulated waves.*)
 </section>
 
 
 <section>
 
-## Problem statement (cont.)
+## One possible look at hydrodynamic modulation
 
 * Linear wave theory takes us a long way.
 * Early analytical solution by Longuet-Higgins & Stewart (1960):
@@ -42,7 +43,7 @@ _WISE 2024_, Cargese, France
 
 ## This talk's science questions
 
-* Do stable solutions exist for more realistic long-wave trains?
-* Are they different from L-H&S (1960) and Peureux et al. (2021) solutions?
-* Should they be incorporated in spectral wave models beyond the cumulative MSS in wave dissipation (e.g. Romero, 2019)?
+* Do stable solutions exist for more realistic long-wave trains/groups?
+* Are they different from L-H&S (1960) and Peureux et al. (2021) solutions and why?
+* Should they be incorporated in spectral wave models beyond the cumulative MSS in dissipation (e.g. Romero, 2019)?
 </section>
