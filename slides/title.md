@@ -22,7 +22,7 @@ _WISE 2024, Cargèse, France_
 * Modulation is important for at least:
   - Remote sensing (e.g. *EM return from Bragg waves carry information about long waves*)
   - Numerical wave prediction (e.g. *can different wave bands be treated independently in wind input functions?*)
-  - Wave measurements (e.g. *a fixed wave staff measures modulated waves.*)
+  - _In situ_ measurements (e.g. *a fixed wave staff measures modulated waves.*)
 </section>
 
 
