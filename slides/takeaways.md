@@ -28,8 +28,12 @@
 # Thank you!
 
 Email me at: mcurcic@miami.edu
+</section>
 
-### References
+
+<section>
+
+## References
 
 * Longuet-Higgins, M.S. and Stewart, R.W., 1960. Changes in the form of short gravity waves on long waves and tidal currents. Journal of Fluid Mechanics, 8(4), pp.565-583.
 * Peureux, C., Ardhuin, F. and Guimarães, P.V., 2021. On the unsteady steepening of short gravity waves near the crests of longer waves in the absence of generation or dissipation. Journal of Geophysical Research: Oceans, 126(1), p.e2020JC016735.
