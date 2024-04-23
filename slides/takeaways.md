@@ -28,4 +28,11 @@
 # Thank you!
 
 Email me at: mcurcic@miami.edu
+
+### References
+
+* Longuet-Higgins, M.S. and Stewart, R.W., 1960. Changes in the form of short gravity waves on long waves and tidal currents. Journal of Fluid Mechanics, 8(4), pp.565-583.
+* Peureux, C., Ardhuin, F. and Guimarães, P.V., 2021. On the unsteady steepening of short gravity waves near the crests of longer waves in the absence of generation or dissipation. Journal of Geophysical Research: Oceans, 126(1), p.e2020JC016735.
+* Romero, L., 2019. Distribution of surface wave breaking fronts. Geophysical Research Letters, 46(17-18), pp.10463-10474.
+* Stewart, R.H. and Joy, J.W., 1974, December. HF radio measurements of surface currents. In Deep sea research and oceanographic abstracts (Vol. 21, No. 12, pp. 1039-1049). Elsevier.
 </section>

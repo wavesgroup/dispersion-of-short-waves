@@ -44,6 +44,9 @@ $$
 $$
 W = a_L \omega_L e^{\varepsilon_L \cos\psi} \sin\psi
 $$
+
+* Assume no vertical shear; Stewart and Joy (1974) would be straightforward here
+  but not sure whether it's applicable.
 </section>
 
 

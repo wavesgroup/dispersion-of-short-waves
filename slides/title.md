@@ -44,5 +44,5 @@ _WISE 2024_, Cargese, France
 
 * Do stable solutions exist for more realistic long-wave trains?
 * Are they different from L-H&S (1960) and Peureux et al. (2021) solutions?
-* Can they and should they be incorporated in spectral wave models?
+* Should they be incorporated in spectral wave models beyond the cumulative MSS in wave dissipation (e.g. Romero, 2019)?
 </section>
