@@ -8,7 +8,7 @@
 
 ## Governing equations for short waves
 
-* Dispersion in deep water with ambient currents:
+* Deep water dispersion with ambient currents:
 
 $$
 \omega = \sqrt{g k} + k U

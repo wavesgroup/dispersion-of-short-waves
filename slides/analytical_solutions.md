@@ -26,15 +26,15 @@ $$
 
 ## Short wave wavenumber
 
-* Longuet-Higgins & Stewart (1960):
+* Longuet-Higgins & Stewart (1960), evaluated at $z = 0$:
 $$
 \tilde{k} = k (1 + \varepsilon_L \cos\psi)
 $$
-* This study:
+* Exact solution, evaluated at $z = \eta$:
 $$
 \tilde{k} = k\ e^{\varepsilon_L \cos\psi e^{\varepsilon_L \cos\psi}}
 $$
-* This solution reduces to L-H&S if we Taylor-expand it and keep the 1$^{st}$ order term in $\varepsilon_L$.
+* Exact solution reduces to L-H&S if we Taylor-expand it and drop all but the 1$^{st}$ order term in $\varepsilon_L$.
 </section>
 
 
@@ -82,7 +82,7 @@ $$
 
 <section>
 
-## Short wave gravity (cont.)
+## Phase-averaged short-wave gravity vs $\varepsilon_L$
 
 <img class="r-stretch" src="assets/fig_gravity_modulation_by_ak.png">
 </section>

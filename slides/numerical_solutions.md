@@ -8,6 +8,7 @@
 
 ## Model setup
 
+* Essentially following Peureux et al. (2021)
 * Equations to solve:
 $$
 \dfrac{\partial k}{\partial t} = - \dfrac{\partial \omega}{\partial x}
@@ -26,9 +27,27 @@ $$
 
 ## Initial conditions
 
-* TODO
-* Very important
-* Discuss Peureux et al. (2021) findings
+* Initial conditions seem to be very important
+* Peureux et al. (2021) found:
+  - Stable if initialized with the L-H&S solution for $\widetilde k$
+  - Unstable growth if initialized uniformly
+  - _"...sudden appearance of a long wave perturbation in the middle of a homogeneous
+short wave field."_
+</section>
+
+
+<section>
+
+## Wave action and wavenumber evolution: Infinite wave train
+
+<video
+  width=600
+  controls
+  data-autoplay
+  loop
+  src="assets/modulation_movie_infinite_train.mp4"
+  type="video/mp4">
+</video>
 </section>
 
 
@@ -50,9 +69,32 @@ $$
 
 <section>
 
+## What if we emulate a "wave group"?
+
+<img class="r-stretch" src="assets/fig_wave_group.png">
+</section>
+
+
+<section>
+
 ## Modulation over time: Wave group
 
 <img class="r-stretch" src="assets/fig_modulation_3panel_wave_group.png">
+</section>
+
+
+<section>
+
+## Wave action and wavenumber evolution: Infinite wave train
+
+<video
+  width=600
+  controls
+  data-autoplay
+  loop
+  src="assets/modulation_movie_groups.mp4"
+  type="video/mp4">
+</video>
 </section>
 
 
@@ -82,7 +124,18 @@ $$
 
 <section>
 
-## Short wave modulation, revisited
+## New solutions compared to Longuet-Higgins & Stewart (1960)
 
-<img class="r-stretch" src="assets/fig_wavenumber_modulation_by_ak_numerical.png">
+<img width="450" src="assets/fig_wavenumber_modulation_by_ak_numerical.png">
+<img width="450" src="assets/fig_wavenumber_modulation_relative_increase.png">
+</section>
+
+
+<section>
+
+## Modulation of wind input to short waves
+
+Evaluate relative change in $\left(\dfrac{u_*}{C_p}\right)^2$ due to the long waves:
+
+<img class="r-stretch" src="assets/fig_wind_input_modulation.png">
 </section>
