@@ -36,17 +36,15 @@ $$
 $$
 \eta = a_L \cos\psi
 $$
-
 $$
 U = a_L \omega_L e^{\varepsilon_L \cos\psi} \cos\psi
 $$
-
 $$
 W = a_L \omega_L e^{\varepsilon_L \cos\psi} \sin\psi
 $$
 
 * Assume no vertical shear; Stewart and Joy (1974) would be straightforward here
-  but not sure whether it's applicable.
+  but perhaps not applicable.
 </section>
 
 

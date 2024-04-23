@@ -51,6 +51,8 @@ $$
 ## Short wave wavenumber (cont.)
 
 <img class="r-stretch" src="assets/fig_wavenumber_modulation_by_ak.png">
+
+* But, phase-averaged $\widetilde k/k$ *should* be 1 if the crests are conserved.
 </section>
 
 

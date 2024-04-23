@@ -18,11 +18,19 @@ _WISE 2024, Cargèse, France_
 ## Problem statement
 
 * Short waves are modulated by ambient longer waves.
-* Well studied but not yet fully understood; many processes going on at once.
+* Well studied but not fully understood; many processes going on.
 * Modulation is important for at least:
   - Remote sensing (e.g. *EM return from Bragg waves carry information about long waves*)
   - Numerical wave prediction (e.g. *can different wave bands be treated independently in wind input functions?*)
   - _In situ_ measurements (e.g. *a fixed wave staff measures modulated waves.*)
+</section>
+
+
+<section>
+
+## Dynamics of a linear wave
+
+<img class="stretch" src="assets/wave_diagram.jpeg">
 </section>
 
 

@@ -20,6 +20,7 @@ $$
   - Space differencing: 2$^{nd}$ order centered
   - Time integration: 4$^{th}$ order Runge-Kutta
   - 100 grid points in phase with periodic boundary conditions
+  - $k_L = 1$, $k_s = 10$, $\varepsilon_L = 0.1$
 </section>
 
 
@@ -29,7 +30,7 @@ $$
 
 * Initial conditions seem to be very important
 * Peureux et al. (2021) found:
-  - Stable if initialized with the L-H&S solution for $\widetilde k$
+  - Stable solution if initialized with the L-H&S solution for $\widetilde k$
   - Unstable growth if initialized uniformly
   - _"...sudden appearance of a long wave perturbation in the middle of a homogeneous
 short wave field."_
@@ -43,7 +44,6 @@ short wave field."_
 <video
   width=600
   controls
-  data-autoplay
   loop
   src="assets/modulation_movie_infinite_train.mp4"
   type="video/mp4">
