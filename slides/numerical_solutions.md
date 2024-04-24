@@ -85,12 +85,11 @@ short wave field."_
 
 <section>
 
-## Wave action and wavenumber evolution: Infinite wave train
+## Wave action and wavenumber evolution: Wave group
 
 <video
   width=600
   controls
-  data-autoplay
   loop
   src="assets/modulation_movie_groups.mp4"
   type="video/mp4">
