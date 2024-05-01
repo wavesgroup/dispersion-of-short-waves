@@ -65,7 +65,7 @@ $$
 
 $$
 \tilde{g} = g \left[
-    1 - \varepsilon_L e^{\varepsilon \cos\psi}
+    1 - \varepsilon_L e^{\varepsilon_L \cos\psi}
     \left( \cos\psi + \varepsilon_L \sin^2\psi \right)
 \right]
 $$
