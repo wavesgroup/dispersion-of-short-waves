@@ -54,18 +54,18 @@ $$
 
 * Prognostic equation for wavenumber:
 $$
-\dfrac{\partial k}{ \partial t} + 
-(C_g + U) \dfrac{\partial k}{\partial x} + 
-\dfrac{1}{2} \sqrt{\dfrac{k}{g}} \dfrac{\partial g}{\partial x} + 
-k \dfrac{\partial U}{\partial x} = 
+\dfrac{\partial k}{ \partial t} +
+(C_g + U) \dfrac{\partial k}{\partial x} +
+k \dfrac{\partial U}{\partial x} +
+\dfrac{1}{2} \sqrt{\dfrac{k}{g}} \dfrac{\partial g}{\partial x} =
 0
 $$
 * Prognostic equation for wave action:
 $$
 \dfrac{\partial N}{ \partial t} +
 (C_g + U) \dfrac{\partial N}{\partial x} +
-N \dfrac{\partial C_g}{\partial x} + 
-N \dfrac{\partial U}{\partial x} =
+N \dfrac{\partial U}{\partial x} +
+N \dfrac{\partial C_g}{\partial x} =
 0
 $$
 </section>

@@ -30,27 +30,6 @@ _May 1, 2024_
 
 <section>
 
-## Importance for remote sensing
-
-TODO
-</section>
-
-<section>
-
-## Importance for numerical wave prediction
-
-* Numerical wave models solve the wave action balance equation.
-* This equation includes empirical source and sink functions.
-* Wave forecast models provide:
-  - Critical information for marine operations and coastal communities
-  - Surface boundary conditions for atmosphere and ocean circulation models
-* State-of-the-art wave dissipation functions (e.g. Romero, 2019) parameterize
-  this modulation effect through the cumulative mean square slope (MSS).
-</section>
-
-
-<section>
-
 ## Dynamics of a linear wave
 
 <img class="stretch" src="assets/wave_diagram.jpeg">
@@ -59,10 +38,31 @@ TODO
 
 <section>
 
+## Importance for remote sensing
+
+<img class="stretch" src="assets/satellite_diagram.jpeg">
+</section>
+
+
+<section>
+
+## Importance for numerical wave prediction
+
+* Wave forecast models provide:
+  - Critical information for marine operations and coastal communities
+  - Surface boundary conditions for atmosphere and ocean circulation models
+* These models solve the wave action balance equation which includes empirical source and sink functions.
+* State-of-the-art wave dissipation functions (e.g. Romero, 2019) parameterize
+  this modulation effect through the cumulative mean square slope (MSS).
+</section>
+
+
+<section>
+
 ## Importance for the interpretation of _in situ_ wave measurements
 
 * Fixed sensor measures the modulated wave, not the intrinsic one.
-* Measured short-wave energy ($k = 10\ rad/m$) will be "smeared" in wavenumber space in presence of longer waves.
+* Measured short-wave energy ($k = 10\ rad/m$) will be "smeared" in wavenumber and frequency space in the presence of longer waves.
 
 <img class="stretch" src="assets/fig_modulation_effect_on_shortwave_spectra.png">
 </section>

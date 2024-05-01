@@ -6,6 +6,16 @@
 
 <section>
 
+## Prior Art: Peureux et al. (2021) result
+
+* Short waves grow indefinitely due to convergence by long waves.
+
+<img class="stretch" src="assets/Peureux_etal_2021_Fig2.jpg">
+</section>
+
+
+<section>
+
 ## Model setup
 
 * Essentially following Peureux et al. (2021)
@@ -70,6 +80,8 @@ short wave field."_
 <section>
 
 ## What if we emulate a "wave group"?
+
+After all, real ocean waves come in groups, and groups are naturally "rampy". :)
 
 <img class="r-stretch" src="assets/fig_wave_group.png">
 </section>
