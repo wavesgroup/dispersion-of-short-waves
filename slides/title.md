@@ -7,7 +7,7 @@ _Milan Curcic_
 
 _Department of Ocean Science, University of Miami_
 
-_Frost Insitute for Data Science & Computing, University of Miami_
+_Frost Institute for Data Science & Computing, University of Miami_
 
 _COMPASS Seminar Series, Rosenstiel School_
 
